@@ -1,0 +1,86 @@
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+.DS_Store
+
+# IDE and editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+.classpath
+.settings/
+
+# OS-specific
+Thumbs.db
+.Thumbs.db
+.AppleDouble
+.LSOverride
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Sensitive data (if any entered during research)
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Large media files
+*.mp4
+*.mov
+*.avi
+*.flv
+*.wmv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.psd
+
+# Cache directories
+.cache/
+__pycache__/
+*.pyc
+node_modules/
+.venv/
+venv/
+env/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+*.exe
+*.dll
+*.com
+*.msi
+*.cab
+
+# Do NOT ignore:
+# - All .md files (investigation documents)
+# - All directory structure
+# - EVIDENCE_LOG/ (historical records)
+# - GitHub-related files (.github/)
