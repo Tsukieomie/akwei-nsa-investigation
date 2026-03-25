@@ -314,6 +314,29 @@ The question is not whether this is physically possible. It is. The question is 
 - Begich/Manning book (167 pages): chapters on brain entrainment (Ch 22), CIA psycho-civilization (Ch 23), nonlethal weapons (Ch 24), APTI/Tesla patents (Ch 15)
 - Editor's Note: Nexus tried to contact Akwei by phone -- he declined to discuss the case
 
+### 25 - Judge Stanley Sporkin: Career Background and Implications for Case 92-0449 Dismissal
+`25_JUDGE_STANLEY_SPORKIN_BACKGROUND_AND_IMPLICATIONS.md`
+- **CIA General Counsel 1981-1986** during Iran-Contra affair; helped draft presidential finding for Iran arms sales
+- **Federal Judge U.S. District Court D.C., 1985-2000** -- appointed by Reagan despite conflict-of-interest controversy
+- **Never recused** from intelligence cases despite obvious appearance of bias
+- **Akwei dismissal: 17 days** (Feb 20 - Mar 9, 1992); no NSA response, no discovery, no adversarial process
+- **Contrast:** Sporkin showed aggressive judicial behavior in Lincoln S&L (1990) and Microsoft (1995), making Akwei dismissal more conspicuous
+- **No documented NSA/intelligence cases** in Sporkin's 1992-2000 tenure except Akwei
+- **Revolving door:** SEC enforcer → CIA lawyer → Federal Judge over intelligence cases
+- **Classified surveillance catch-22:** Claims about secret technology appear frivolous precisely because they're classified
+
+### 26 - New Research Findings: TASO KARRAS Identified, Sporkin Docket Analysis, Witness Verification
+`26_NEW_RESEARCH_FINDINGS_TASO_KARRAS_SPORKIN_DOCKET.md`
+- **TASO KARRAS IDENTIFIED:** Tasso Karras, son of George Karras (1936-2021) of Silver Spring, MD -- STRONG MATCH
+- **Age window:** Born ~1955-1965 (right generation for Northwood High School 1978-1981)
+- **Geographic match:** Silver Spring/Kemp Mill neighborhood, exact location from Akwei complaint
+- **Confidence level: HIGH** -- supported by official obituary documentation
+- **Judge Sporkin docket analysis:** Akwei case (17 days) appears to be ONLY NSA case during Sporkin's 1992-2000 tenure
+- **Pattern confirmed:** Sporkin aggressive in other cases (Lincoln S&L, Microsoft) but perfunctory with Akwei
+- **Allan C. Kornblum VERIFIED:** Real DOJ official (Deputy Counsel, Office of Intelligence Policy and Review); handled ALL FBI/NSA wiretap applications; authored key FISA provisions
+- **Validation:** Akwei's strategic choice of contacts (Kornblum) was informed and appropriate
+- **Other witnesses:** Joan Russo office verified (Mikulski staff), Brian Millar/AV Washington unverified, Tempworld partially verified
+
 ---
 
 ## Connection to Main Investigation
