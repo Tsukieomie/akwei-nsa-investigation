@@ -231,6 +231,6 @@ Price served as Command Language Program Manager and has elementary Russian prof
 
 ## Source Documents
 
-1. `/Users/kenny/Downloads/Brooklynne Price.pdf` -- Full resume with career timeline, skills, certifications, and honors
-2. `/Users/kenny/Downloads/Brooklynne Price | LinkedIn - electronics warfare .pdf` -- LinkedIn profile capture showing About section, headline, and activity (1,295 followers)
-3. `/Users/kenny/Downloads/- National Security Agency: People | LinkedIn.pdf` -- NSA company page overview with 4,413 associated members, geographic/school/function breakdowns, and visible personnel profiles (captured 3/24/26 7:18 PM)
+1. `[Source PDF: Brooklynne Price.pdf` -- Full resume with career timeline, skills, certifications, and honors
+2. `[Source PDF: Brooklynne Price | LinkedIn - electronics warfare .pdf` -- LinkedIn profile capture showing About section, headline, and activity (1,295 followers)
+3. `[Source PDF: - National Security Agency: People | LinkedIn.pdf` -- NSA company page overview with 4,413 associated members, geographic/school/function breakdowns, and visible personnel profiles (captured 3/24/26 7:18 PM)

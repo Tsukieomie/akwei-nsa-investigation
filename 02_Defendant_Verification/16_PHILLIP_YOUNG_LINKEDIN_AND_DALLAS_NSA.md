@@ -71,7 +71,7 @@ This same-day modification is significant because:
 5. The same-day timing makes coincidental modification statistically improbable
 
 **Preservation:** The original profile content is preserved in:
-- `/Users/kenny/Downloads/Phillip Young | LinkedIn - Original - NSA - Mind Control.pdf`
+- `[Source PDF: Phillip Young | LinkedIn - Original - NSA - Mind Control.pdf`
 - This investigation file (Section 1 above)
 
 ---
@@ -273,7 +273,7 @@ Four for four on verifiable claims. The remaining claims (TS clearance, Kinnecom
 ## 8. Evidence Preservation Note
 
 The original LinkedIn profile content was captured as a PDF before the profile was modified:
-- **File:** `/Users/kenny/Downloads/Phillip Young | LinkedIn - Original - NSA - Mind Control.pdf`
+- **File:** `[Source PDF: Phillip Young | LinkedIn - Original - NSA - Mind Control.pdf`
 - **Capture date:** March 20, 2026, 12:00 AM
 - **URL:** https://www.linkedin.com/in/phillip-young-46a490197/?skipRedirect=true
 - **Content:** Full "About" section with 4211 Bryan Street, Kinnecome Group, Robin C Young, and all operational claims

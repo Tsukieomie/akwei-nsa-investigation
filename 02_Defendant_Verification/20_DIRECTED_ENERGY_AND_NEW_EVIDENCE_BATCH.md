@@ -232,13 +232,13 @@ The convergence of a named Akwei defendant (Abate) at the same company where rad
 
 ## Source Documents
 
-1. `/Users/kenny/Downloads/Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf` -- Official USAF/DoD report, AFRL-2021-1152
-2. `/Users/kenny/Downloads/Felisha Lawrence, Ph.D. | LinkedIn - NASA.pdf` -- LinkedIn profile capture
-3. `/Users/kenny/Downloads/Felisha Lawrence PhD.pdf` -- Full resume
-4. `/Users/kenny/Downloads/Jaylin Truss | LinkedIn - XAABR1N431 2A1E.pdf` -- LinkedIn profile confirming shared credential ID
-5. `/Users/kenny/Downloads/SignalHire - John St Clair Akwei.pdf` -- Identity confirmation
-6. `/Users/kenny/Downloads/Junius Lewis.pdf` -- Resume of potential defendant match
-7. `/Users/kenny/Downloads/(9) Phillip Young | LinkedIn - CFO - army - DoD.pdf` -- Third Phillip Young (not relevant)
-8. `/Users/kenny/Downloads/Robin Young | LinkedIn.pdf` -- Robin Young Houston PD (not the relevant Robin Young)
-9. `/Users/kenny/Downloads/Greg Cowin – Developer - 4211.pdf` -- Developer blog (not relevant)
-10. `/Users/kenny/Downloads/JOHN QUINCY.pdf` -- USAF LTC retired, tangential interest
+1. `[Source PDF: Directed_Energy_Futures_2060_Final29June21_with_clearance_number.pdf` -- Official USAF/DoD report, AFRL-2021-1152
+2. `[Source PDF: Felisha Lawrence, Ph.D. | LinkedIn - NASA.pdf` -- LinkedIn profile capture
+3. `[Source PDF: Felisha Lawrence PhD.pdf` -- Full resume
+4. `[Source PDF: Jaylin Truss | LinkedIn - XAABR1N431 2A1E.pdf` -- LinkedIn profile confirming shared credential ID
+5. `[Source PDF: SignalHire - John St Clair Akwei.pdf` -- Identity confirmation
+6. `[Source PDF: Junius Lewis.pdf` -- Resume of potential defendant match
+7. `[Source PDF: (9) Phillip Young | LinkedIn - CFO - army - DoD.pdf` -- Third Phillip Young (not relevant)
+8. `[Source PDF: Robin Young | LinkedIn.pdf` -- Robin Young Houston PD (not the relevant Robin Young)
+9. `[Source PDF: Greg Cowin – Developer - 4211.pdf` -- Developer blog (not relevant)
+10. `[Source PDF: JOHN QUINCY.pdf` -- USAF LTC retired, tangential interest

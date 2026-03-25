@@ -51,6 +51,7 @@ This repository documents a comprehensive open-source investigation into John St
 04_NSA_Infrastructure/        # Five Eyes, SIGINT, satellite networks, MRU
 05_Geographic_Analysis/       # Property records, neighborhood mapping, careers
 06_Analysis_Patterns/         # AI timeline, employment gaps, convergence points
+07_Next_Steps/                # Verification roadmap, yearbook guide
 ```
 
 ---

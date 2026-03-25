@@ -7,7 +7,7 @@
 
 ## Section 1: Phillip Young #2 -- Facebook Confirms Northrop Grumman (MAJOR FINDING)
 
-**Source:** `/Users/kenny/Downloads/Phillip Young - NSA.pdf` (Facebook profile capture)
+**Source:** `[Source PDF: Phillip Young - NSA.pdf` (Facebook profile capture)
 
 ### The Problem
 Phillip Young #2's LinkedIn profile listed his employer only as "DoD Aerospace Contractor" -- a generic description that could not be independently verified. His resume stated "Radar Systems Engineering Manager" at a "DoD Aerospace Contractor" since July 1987.
@@ -54,7 +54,7 @@ Both Akwei and Phillip Young #2 attended Capitol Technology University (then Cap
 
 ## Section 2: RocketReach Independent Verification of Phillip Young #1 (SIGNIFICANT)
 
-**Source:** `/Users/kenny/Downloads/RocketReach Search - Find Email, Phone & Social Media - phillip young nsa mind conrtol contractor.pdf`
+**Source:** `[Source PDF: RocketReach Search - Find Email, Phone & Social Media - phillip young nsa mind conrtol contractor.pdf`
 **Captured:** 3/20/26, 12:14 AM
 
 ### What RocketReach Shows
@@ -87,7 +87,7 @@ However, the fact that an independent third-party database associates this speci
 
 ## Section 3: Banner v. NSA -- Akwei's Dossier as Federal Court Evidence (2011)
 
-**Source:** `/Users/kenny/Downloads/USCOURTS-flnd-3_11-cv-00120-0.pdf`
+**Source:** `[Source PDF: USCOURTS-flnd-3_11-cv-00120-0.pdf`
 **Case:** Per Andrew Banner v. National Security Agency, et al.
 **Case No.:** 3:11cv120/RV/EMT
 **Court:** United States District Court, Northern District of Florida, Pensacola Division
@@ -123,7 +123,7 @@ The court's footnote 2 lists the attachments Banner filed with his complaint:
 
 ## Section 4: NSA LinkedIn Company Page -- Institutional Data
 
-**Source:** `/Users/kenny/Downloads/National Security Agency: About | LinkedIn.pdf`
+**Source:** `[Source PDF: National Security Agency: About | LinkedIn.pdf`
 **Captured:** 3/19/26, 11:55 PM
 
 ### Official NSA Self-Description
@@ -155,7 +155,7 @@ NSA's own description of its specialties confirms: Signals Analysis, Intelligenc
 
 ## Section 5: The Akwei Dossier Web Capture -- Full Primary Source
 
-**Source:** `/Users/kenny/Downloads/Covert Operations of the U.S. National Security Agency.pdf`
+**Source:** `[Source PDF: Covert Operations of the U.S. National Security Agency.pdf`
 **Origin:** bibliotecapleyades.net/ciencia/echelon/echelon02.htm
 **Captured:** 3/17/26, 6:53 PM
 
@@ -179,7 +179,7 @@ The editor states he contacted Akwei by phone. Akwei "firmly but kindly told me 
 
 ## Section 6: Brooklynne Price -- NSA Company Page Search Confirmation
 
-**Source:** `/Users/kenny/Downloads/Brooklyne Price - National Security Agency: People | LinkedIn.pdf`
+**Source:** `[Source PDF: Brooklyne Price - National Security Agency: People | LinkedIn.pdf`
 **Captured:** 3/24/26, 7:36 PM
 
 This capture shows the NSA company page People tab filtered for "Brooklynne Price," returning "1 associated member." Her profile shows:
@@ -197,13 +197,13 @@ This confirms that Brooklynne Price appears when searching NSA's own company pag
 ### Assessed as Not Relevant to Core Investigation
 
 **Providence Police Department Arrests and Citations (484 pages)**
-- `/Users/kenny/Downloads/Providence_Police_Department__Arrests_and_Citations-_Past_180_Days.pdf`
+- `[Source PDF: Providence_Police_Department__Arrests_and_Citations-_Past_180_Days.pdf`
 - 484 pages of arrest records from Providence, Rhode Island (March 2026)
 - No connection to Akwei investigation. The first entry has a "Silver Spring St" address in Providence -- this may have been why it was captured (the street name matching Silver Spring, MD), but it is a coincidence. Providence, RI is unrelated to the investigation.
 - **Assessment: Not relevant.**
 
 **Microwave Brain Scrambler Electronics Forum (35 pages)**
-- `/Users/kenny/Downloads/Microwave brain scrambler? | Page 6 | Electronics Forums.pdf`
+- `[Source PDF: Microwave brain scrambler? | Page 6 | Electronics Forums.pdf`
 - Page 6 of a 7-page electronics forum thread from electronics-lab.com, started by "Winston" in March 2010
 - Discusses Dr. Ross Adey's research on modulated non-ionizing radiation controlling animal brain function (eye muscle control via carrier wave with low-frequency AM subcarrier)
 - References Persinger's work on voice-modulated magnetic fields influencing choices
@@ -211,7 +211,7 @@ This confirms that Brooklynne Price appears when searching NSA's own company pag
 - **Assessment: Confirms public awareness of Adey's research but adds no new primary evidence. The Adey window and Persinger research are already documented in Files 4, 5, and 17.**
 
 **004789484897a79e49524.pdf (blank capture)**
-- `/Users/kenny/Downloads/004789484897a79e49524.pdf`
+- `[Source PDF: 004789484897a79e49524.pdf`
 - A blank page with only the title "John St Clair Akwei V Nsa At Ft Meade" visible
 - Appears to be a failed web capture of an Akwei-related page
 - **Assessment: No usable content.**
@@ -259,12 +259,12 @@ The probability calculation: Of all major defense contractors in the DC-Baltimor
 
 ## Source Documents
 
-1. `/Users/kenny/Downloads/Phillip Young - NSA.pdf` -- Facebook profile confirming Northrop Grumman (38+ yrs)
-2. `/Users/kenny/Downloads/RocketReach Search - Find Email, Phone & Social Media - phillip young nsa mind conrtol contractor.pdf` -- Independent verification with @intelligencecareers.gov email
-3. `/Users/kenny/Downloads/USCOURTS-flnd-3_11-cv-00120-0.pdf` -- Banner v. NSA, Case 3:11cv120/RV/EMT (2011)
-4. `/Users/kenny/Downloads/National Security Agency: About | LinkedIn.pdf` -- NSA company page
-5. `/Users/kenny/Downloads/Covert Operations of the U.S. National Security Agency.pdf` -- Full Akwei dossier web capture
-6. `/Users/kenny/Downloads/Brooklyne Price - National Security Agency: People | LinkedIn.pdf` -- NSA company page search confirmation
-7. `/Users/kenny/Downloads/Providence_Police_Department__Arrests_and_Citations-_Past_180_Days.pdf` -- Not relevant
-8. `/Users/kenny/Downloads/Microwave brain scrambler? | Page 6 | Electronics Forums.pdf` -- Forum discussion of Adey research
-9. `/Users/kenny/Downloads/004789484897a79e49524.pdf` -- Blank capture, not usable
+1. `[Source PDF: Phillip Young - NSA.pdf` -- Facebook profile confirming Northrop Grumman (38+ yrs)
+2. `[Source PDF: RocketReach Search - Find Email, Phone & Social Media - phillip young nsa mind conrtol contractor.pdf` -- Independent verification with @intelligencecareers.gov email
+3. `[Source PDF: USCOURTS-flnd-3_11-cv-00120-0.pdf` -- Banner v. NSA, Case 3:11cv120/RV/EMT (2011)
+4. `[Source PDF: National Security Agency: About | LinkedIn.pdf` -- NSA company page
+5. `[Source PDF: Covert Operations of the U.S. National Security Agency.pdf` -- Full Akwei dossier web capture
+6. `[Source PDF: Brooklyne Price - National Security Agency: People | LinkedIn.pdf` -- NSA company page search confirmation
+7. `[Source PDF: Providence_Police_Department__Arrests_and_Citations-_Past_180_Days.pdf` -- Not relevant
+8. `[Source PDF: Microwave brain scrambler? | Page 6 | Electronics Forums.pdf` -- Forum discussion of Adey research
+9. `[Source PDF: 004789484897a79e49524.pdf` -- Blank capture, not usable
