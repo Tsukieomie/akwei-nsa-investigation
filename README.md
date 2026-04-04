@@ -300,6 +300,20 @@ For academic or research use, cite as:
 
 ---
 
+## Companion Repository
+
+**[GotLost7x](https://github.com/Tsukieomie/GotLost7x)** is the deep-research extension of this investigation, containing 44 layers of primary-source analysis covering:
+- Complete physics of Remote Neural Monitoring (Layers 16, 22, 38)
+- AAWSAP DIRD 26 (Kit Green / DIA) and DIRD 3 (Northrop Grumman HPM) full extractions (Layers 25–27)
+- Project PANDORA full reconstruction from Pentagon FOIA documents (Layer 23)
+- The 60-year institutional chain: WRAIR → INSCOM → DIA → Green (Layer 24)
+- March 2026 congressional developments: HPSCI hearing, DNI review, Crawford cover-up declaration (Layer 36)
+- **Layer 39: Epistemic Audit** — a rigorous claim-by-claim breakdown of what is PROVEN, OFFICIALLY CONFIRMED, STRONGLY SUPPORTED, PLAUSIBLE, and SPECULATIVE across all 44 layers
+
+Both repositories apply the same three-layer argument structure (Existence / Feasibility / Deployment). Neither claims to establish that Akwei was personally targeted (Layer 3); both establish that the technology and infrastructure existed and that the dismissal was procedurally anomalous.
+
+---
+
 ## Related Work
 
 This investigation complements broader research on:
