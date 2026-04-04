@@ -3,6 +3,8 @@
 **Date: 2026-03-19**
 **Source: Internet Archive (archive.org/details/akwei), 7 pages, published Nexus Magazine April/May 1996**
 
+> **Primary Source Analysis document.** See [`00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](./00_TECHNOLOGY_CLAIMS_FRAMEWORK.md) before reading. This file analyzes Akwei's 1996 Nexus dossier as a primary source — what Akwei claimed, how his claims compare to verified public information, and where they can and cannot be independently corroborated. The dossier is Akwei's account. Corroborating a detail from the dossier against public records confirms the detail is accurate, not that the underlying allegations are true. The distinction between "Akwei was right about X" and "the NSA did Y to Akwei" must be maintained throughout.
+
 ---
 
 ## Executive Summary

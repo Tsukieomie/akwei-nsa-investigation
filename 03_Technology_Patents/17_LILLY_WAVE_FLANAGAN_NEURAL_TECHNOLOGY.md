@@ -3,11 +3,13 @@
 **Date: 2026-03-20**
 **Central question: What is the scientific and institutional lineage connecting the Lilly Wave to Akwei's claims?**
 
+> **Layer 1 (Existence) document.** See [`00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](./00_TECHNOLOGY_CLAIMS_FRAMEWORK.md) before reading. This file documents the patent and institutional lineage of neural stimulation and remote monitoring technology. It establishes that the technology Akwei described has real scientific antecedents. It does not establish that these technologies were deployed against Akwei.
+
 ---
 
 ## Executive Summary
 
-The Lilly Wave is a biphasic balanced electrical pulse invented by Dr. John C. Lilly at NIMH in 1955, enabling non-injurious repeated stimulation of brain tissue. Patrick Flanagan's Neurophone (patented 1968) transmits sound through skin to brain, bypassing the auditory system. Both technologies were developed by researchers with documented intelligence community connections. The Lilly Wave is the foundational waveform technology that makes prolonged neural stimulation possible without tissue damage -- the enabling technology for everything Akwei described. The institutional chain from Lilly (1955) through Flanagan (1968), Frey (1961), Adey/MKULTRA (1960s), PANDORA (1965), and Malech (1976) to Akwei's claims (1992) is continuous, documented, and supported by issued US patents.
+The Lilly Wave is a biphasic balanced electrical pulse invented by Dr. John C. Lilly at NIMH in 1955, enabling non-injurious repeated stimulation of brain tissue. Patrick Flanagan's Neurophone (patented 1968) transmits sound through skin to brain, bypassing the auditory system. Both technologies were developed by researchers with documented intelligence community connections. The Lilly Wave is the foundational waveform technology that makes prolonged neural stimulation possible without tissue damage — an enabling technology for the kind of system Akwei described. The institutional chain from Lilly (1955) through Flanagan (1968), Frey (1961), Adey/MKULTRA (1960s), PANDORA (1965), and Malech (1976) to Akwei's claims (1992) is continuous, documented, and supported by issued US patents.
 
 ---
 
@@ -176,7 +178,7 @@ Adey demonstrated that a **450 MHz microwave carrier wave, amplitude-modulated a
 5. A compensating signal can then be transmitted back to the brain to "effect a desired change in electrical activity"
 6. Any region of the brain can be targeted by altering antenna scan angle and direction
 
-**This is essentially a blueprint for Akwei's Remote Neural Monitoring (RNM) system.** The patent was filed 18 years before Akwei's lawsuit and describes the exact operational concept he alleged the NSA was using.
+**This patent describes the same operational concept Akwei alleged the NSA was using — filed 18 years before his lawsuit.** It establishes that the concept of remote neural monitoring via active RF illumination was conceived, patented, and publicly available long before 1992. Whether the NSA developed and operated a system based on this architecture is a Layer 3 question this investigation cannot answer.
 
 ---
 
@@ -280,7 +282,7 @@ The National Academies of Sciences issued a report in 2020 concluding:
 - Directed pulsed microwave radiation is the most likely cause of the symptoms experienced by US diplomats in Cuba (2016-present)
 - Symptoms include: hearing penetrating sounds, cognitive difficulty, vestibular issues, brain trauma
 
-This is official scientific validation -- 28 years after Akwei's lawsuit -- that the core technology he described (pulsed microwave energy causing auditory perception and neural effects) exists, works, and has been deployed against US government personnel.
+This is official scientific validation — 28 years after Akwei's lawsuit — that the core technology he described (pulsed microwave energy causing auditory perception and neural effects) exists and works. The NAS report confirms deployment against US government personnel in the Havana Syndrome context. This validates the physical mechanism (Layer 1) and strengthens the case that the technology was within reach of a state actor in 1992 (Layer 2). It does not confirm deployment against Akwei specifically (Layer 3).
 
 ---
 

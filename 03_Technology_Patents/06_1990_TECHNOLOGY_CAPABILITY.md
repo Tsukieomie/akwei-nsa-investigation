@@ -2,6 +2,8 @@
 
 **Compiled: 2026-03-19**
 
+> **Layer 2 (Feasibility) document.** See [`00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](./00_TECHNOLOGY_CLAIMS_FRAMEWORK.md) before reading. This file argues that the technology Akwei described was feasible at the relevant distances and within NSA capability in 1990. It does not establish that any such operation occurred. All operational descriptions are hypothetical reconstructions consistent with Akwei's account, not statements of verified fact.
+
 ---
 
 ## THE REFRAME
@@ -10,7 +12,7 @@ The question "how could Akwei have known about NSA technology in 1992?" assumes 
 
 The question becomes: **Was the technology to do what Akwei described experiencing available in 1990?**
 
-Answer: **Yes. All of it. And the operation was local -- equipment next door.**
+Answer: **Yes. All of it. And if the operation occurred as Akwei described, it would have been local — the necessary equipment could have been concealed next door.**
 
 ---
 
@@ -78,7 +80,7 @@ At 15-30 meters, the raw SNR is **+36 to +48 dB** before any processing. This is
 - Directional antenna (horn or small phased array): can be concealed in a wall, attic, or behind a facade
 - Power: standard 120V household outlet sufficient for 15-30m range (Frey demonstrated effects at microwatts/cm2; at 15m, milliwatts of transmit power is sufficient)
 
-**Feasibility in 1990: CONFIRMED.** This is 28-year-old technology deployed at trivial range. A competent RF engineer could build this from commercial components.
+**Feasibility in 1990: CONFIRMED.** This is 28-year-old technology. A competent RF engineer could build this from commercial components and operate it at trivial range.
 
 ### Read Path: Neural State Monitoring
 
@@ -103,7 +105,7 @@ At 15-30 meters, the raw SNR is **+36 to +48 dB** before any processing. This is
 - Emotional valence (positive/negative): PROBABLE (heartbeat waveform changes correlate with emotion; Katabi demonstrated this publicly 26 years later with WiFi)
 - Specific thought content: NO (requires modern deep learning + high-SNR recording)
 
-**Feasibility in 1990: FEASIBLE for brain state and physiological monitoring.** Not feasible for thought decoding. Akwei's description of "two-way contact" is consistent with a system that reads his arousal/emotional state and responds in real-time, creating the experience of interactive communication.
+**Feasibility in 1990: FEASIBLE for brain state and physiological monitoring.** Not feasible for thought decoding. If Akwei's description of "two-way contact" reflects a real experience, it would be consistent with a system that reads arousal/emotional state and responds in real-time, creating the subjective experience of interactive communication.
 
 ### Through-Wall Tracking
 
@@ -116,10 +118,10 @@ At 15-30 meters, the raw SNR is **+36 to +48 dB** before any processing. This is
 - Breathing and heartbeat create micro-Doppler signatures
 
 **Equipment needed:**
-- Same CW or UWB radar already deployed for the read path
+- Same CW or UWB radar as hypothesized for the read path
 - Signal processing to track body position (standard radar processing)
 
-**Feasibility in 1990: CONFIRMED.** Through-wall human detection via radar is basic military technology. At 15-30m with a clear line of sight through residential walls, this is trivial.
+**Feasibility in 1990: CONFIRMED.** Through-wall human detection via radar is basic military technology. At 15–30m through residential walls, this is technically trivial.
 
 ### Physiological Manipulation
 
@@ -178,21 +180,21 @@ Akwei was not in a remote area. He was in one of the most electromagnetically sa
 
 ---
 
-## THE OPERATION AKWEI DESCRIBED
+## HYPOTHETICAL ARCHITECTURE CONSISTENT WITH AKWEI'S ACCOUNT
 
-Stripped of the nationwide extrapolation, Akwei's complaint describes a targeted close-range operation:
+Stripped of the nationwide extrapolation, Akwei's complaint describes a targeted close-range operation. The following is a hypothetical reconstruction of what such an operation would require — not a statement of what occurred:
 
 ```
+[HYPOTHETICAL]
 FORT MEADE (20 miles)
   - Cray supercomputers for signal processing
-  - 100-person Kinnecome group (24/7 shifts)
+  - 100-person Kinnecome group (24/7 shifts) [per Akwei's account]
   - Operations center managing the targeting
   - Secure data link to field site
        |
        | (secure comm link, 20 miles)
        |
-814 MALTA LANE, WHEATON, MD
-  - Mr. Kinnecome (retired NSA) and family in residence
+814 MALTA LANE, WHEATON, MD [alleged in complaint]
   - Concealed RF equipment (V2K transmitter + CW radar)
   - Directional antennas aimed at 819 Malta Lane
   - Automated monitoring with data uplink to Fort Meade
@@ -201,27 +203,26 @@ FORT MEADE (20 miles)
        |
 819 MALTA LANE, WHEATON, MD
   - John S. Akwei
-  - Experiences V2K, physiological effects, sleep disruption
-  - Perceives "two-way communication" because system responds
-    to his neural/physiological state in real-time
+  - Alleged: V2K, physiological effects, sleep disruption
+  - Alleged: "two-way communication" via real-time neural state response
 ```
 
-This is not a science fiction scenario. It is a standard intelligence surveillance operation using RF equipment that existed in 1990, operated by NSA personnel from a residential safe house, with processing at a facility 20 miles away. Every component is confirmed technology. The only novel element is the specific application -- using active RF for neural monitoring rather than (or in addition to) standard SIGINT -- and even that was patented in 1974.
+This architecture is not science fiction — every component is confirmed technology that existed in 1990. The only novel element is the specific application (active RF for neural monitoring rather than standard SIGINT), and even that was patented in 1974. **Whether this architecture was actually deployed is a separate question that this investigation cannot answer from public sources.**
 
 ---
 
 ## WHAT AKWEI COULD NOT HAVE KNOWN FROM PUBLIC SOURCES
 
-If the operation was real, Akwei would have directly experienced:
-1. Voices in his head (V2K) -- he would know the content, timing, and 3D spatial characteristics
-2. The system's responsiveness to his mental/emotional state -- proving the read path was operational
-3. Physical effects correlated with the V2K transmissions
-4. The identities of the operators (his former classmates from Northwood HS)
+If Akwei's account is accurate, certain details in his complaint would be difficult to fabricate from public sources alone:
+1. Specific 3D spatial characteristics of V2K perception — not described in any 1990 public literature
+2. The system's real-time responsiveness to mental/emotional state — implying knowledge of a two-way read/write architecture
+3. Physical effects correlated with transmissions
+4. The identities of operators as former classmates from Northwood HS
 5. The operational schedule (24/7, shift-based)
 
-These experiential details go beyond anything in the public literature. No published source in 1990 described the operational experience of being a V2K target. Akwei's description of "3D sound direct to the brain" and "two-way RNM contact" are consistent with someone describing an actual experience, not someone extrapolating from published papers.
+These details are consistent with someone describing direct experience rather than extrapolating from published papers. This is a notable observation — not proof. Alternative explanations include delusional disorder, which can produce internally consistent and detailed accounts that are similarly difficult to source from public literature.
 
-The 5 milliwatt error in his power level claim actually supports this interpretation: a target experiencing V2K and neural monitoring would not necessarily know the power levels involved. He would know what it felt like and what it could do, not the engineering specifications. The technical errors in his dossier are consistent with a target who researched the technology AFTER experiencing it, not an engineer who designed it.
+The 5 milliwatt error in his power level claim is notable in either direction: a genuine target might not know the engineering specifications; someone fabricating from published sources might reproduce them more accurately. The error is consistent with both interpretations.
 
 ---
 

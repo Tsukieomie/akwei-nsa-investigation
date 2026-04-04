@@ -2,11 +2,13 @@
 
 **Compiled: 2026-03-19**
 
+> **Layer 1 (Existence) document.** See [`00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](./00_TECHNOLOGY_CLAIMS_FRAMEWORK.md) before reading. This file establishes that EM-nervous system coupling capable of carrying complex information is a real, demonstrated phenomenon. It does not establish that this technology was deployed against Akwei. It establishes the physical basis that makes such deployment theoretically possible.
+
 ---
 
 ## THE ARGUMENT IN ONE PARAGRAPH
 
-The entire active RF neural sensing argument depends on one assumption: that electromagnetic energy couples with the nervous system -- that RF goes in and biological signals come back out on the return. Patrick Flanagan proved the coupling is strong enough to carry complex information in 1958, at age 14. The DIA recognized the military implications in 1968 when they seized his second patent under national security authority. The molecular mechanism (Piezo1 mechanosensitive ion channels) was confirmed by Nobel Prize-winning research in 2021 and directly linked to ultrasound neuromodulation by PNAS in 2023. Flanagan is the proof-of-concept for the entire read/write neural system.
+The entire active RF neural sensing argument depends on one assumption: that electromagnetic energy couples with the nervous system — that RF goes in and biological signals come back out on the return. Patrick Flanagan demonstrated the coupling is strong enough to carry complex information in 1958, at age 14. The DIA recognized the military implications in 1968 when they seized his second patent under national security authority. The molecular mechanism (Piezo1 mechanosensitive ion channels) was confirmed by Nobel Prize-winning research in 2021 and directly linked to ultrasound neuromodulation by PNAS in 2023. Flanagan provides the proof-of-concept for the physical basis of a read/write neural system — not proof that any such system was built and operated.
 
 ---
 
@@ -149,9 +151,9 @@ Steps 2 and 3 are exactly where AI provides 20-40 dB of processing gain through:
 | **Processing gain** | AI (DARPA-funded since 1958) | 1958-present | Bridges 20-40 dB noise gap for read path |
 | **Weaponized write path** | Norris-Putterman | 2023 | Standoff neural disruption via same coupling |
 
-**Flanagan is the keystone.** Without the proof that EM-nervous system coupling is strong enough to carry information, the Malech architecture is theoretical speculation. With it, the architecture becomes an engineering program. AI makes the engineering work at operationally useful distances.
+**Flanagan is the keystone for Layer 1.** Without the demonstrated proof that EM-nervous system coupling is strong enough to carry information, the Malech architecture is theoretical speculation. With it, the architecture becomes a plausible engineering program. AI makes the engineering feasible at operationally useful distances.
 
-The DIA understood this in 1968. They seized the technology. The question is what 58 years of classified engineering, backed by the world's most powerful computing infrastructure, has produced.
+The DIA understood the military implications in 1968 and seized the technology. What 58 years of classified engineering may have produced is unknown — that question is Layer 3 and beyond the reach of this investigation.
 
 ---
 

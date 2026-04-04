@@ -116,33 +116,43 @@
 
 ## 03_Technology_Patents
 
-### 04 - Flanagan Neurophone and EM-Nervous System Coupling
+> **Read [`03_Technology_Patents/00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](03_Technology_Patents/00_TECHNOLOGY_CLAIMS_FRAMEWORK.md) first.** All files in this section establish technology existence (Layer 1) or feasibility (Layer 2). None establish that any technology was deployed against Akwei specifically (Layer 3), which requires classified records not available to this investigation.
+
+### 00 - Technology Claims Framework *(read first)*
+[`03_Technology_Patents/00_TECHNOLOGY_CLAIMS_FRAMEWORK.md`](03_Technology_Patents/00_TECHNOLOGY_CLAIMS_FRAMEWORK.md)
+- Defines the three-layer argument structure: Existence / Feasibility / Deployment
+- Provides language guide for distinguishing confirmed facts from hypothetical reconstructions
+- Standing disclaimer applicable to all technology files
+- Reading order and summary of each file's layer
+
+### 04 - Flanagan Neurophone and EM-Nervous System Coupling *(Layer 1)*
 [`03_Technology_Patents/04_FLANAGAN_NEUROPHONE_AND_COUPLING.md`](03_Technology_Patents/04_FLANAGAN_NEUROPHONE_AND_COUPLING.md)
-- Flanagan proved EM-nervous system coupling carries complex information (1958)
+- Flanagan demonstrated EM-nervous system coupling carries complex information (1958)
 - DIA seized his second patent under national security authority (1968-1972)
 - Piezo1 mechanosensitive ion channels confirmed as molecular mechanism (Nobel 2021, PNAS 2023)
 - Puharich -> Flanagan -> Malech -> Loos -> Norris-Putterman: 65-year patent chain
 
-### 06 - 1990 Technology Capability Assessment
+### 06 - 1990 Technology Capability Assessment *(Layer 2)*
 [`03_Technology_Patents/06_1990_TECHNOLOGY_CAPABILITY.md`](03_Technology_Patents/06_1990_TECHNOLOGY_CAPABILITY.md)
 - 819 Malta Lane (Akwei) and 814 Malta Lane (Kinnecome): 15-30 meters apart
 - Signal budget at neighbor-house range: +36 to +48 dB raw SNR before processing
-- Write path (V2K): 28-year-old technology by 1990, trivial at 15-30m range
+- Write path (V2K): 28-year-old technology by 1990, feasible at 15-30m range
 - Read path: feasible for brain state monitoring via Malech patent architecture
+- Hypothetical operational architecture consistent with Akwei's account (not a statement of what occurred)
 
-### 10 - The 1996 Nexus Magazine Dossier: Primary Source Analysis
+### 10 - The 1996 Nexus Magazine Dossier: Primary Source Analysis *(Layer 1 + context)*
 [`03_Technology_Patents/10_NEXUS_DOSSIER_ANALYSIS.md`](03_Technology_Patents/10_NEXUS_DOSSIER_ANALYSIS.md)
 - Full analysis of 7-page dossier published Nexus Magazine April/May 1996
 - Bioelectric resonance frequency table: Motor 10Hz, Auditory 15Hz, Visual 25Hz, Somatosensory 9Hz, Thought 20Hz
-- DOMINT claims confirmed by Snowden 21 years later
-- Operational details cannot come from bibliography -- sourced from experience or contacts
+- DOMINT claims corroborated by Snowden disclosures 21 years later
+- Note: corroborating a detail confirms accuracy of claim, not truth of underlying allegation
 
-### 17 - The Lilly Wave, Patrick Flanagan, and Neural Stimulation Technology Chain
+### 17 - The Lilly Wave, Patrick Flanagan, and Neural Stimulation Technology Chain *(Layer 1)*
 [`03_Technology_Patents/17_LILLY_WAVE_FLANAGAN_NEURAL_TECHNOLOGY.md`](03_Technology_Patents/17_LILLY_WAVE_FLANAGAN_NEURAL_TECHNOLOGY.md)
 - Lilly briefed CIA, NSA, FBI, military intelligence in 1953 on brain stimulation
 - NSA/DIA placed secrecy order on Advanced Neurophone for 5+ years
 - ALL FIVE of Akwei's frequencies fall within the "Adey window" (6-20 Hz)
-- Malech Patent (US 3,951,134, 1976): blueprint for Akwei's RNM
+- Malech Patent (US 3,951,134, 1976): describes same operational concept as Akwei's alleged RNM
 - Complete 12-link technology chain from 1953 through 1992
 
 ---
