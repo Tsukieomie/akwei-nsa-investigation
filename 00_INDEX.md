@@ -1,9 +1,9 @@
-# Akwei v. NSA Investigation -- Master Index
+# Akwei v. NSA Investigation — Master Index
 
-**Case:** Civil Action 92-0449-SS, U.S. District Court D.C.
-**Investigation Period:** March 2026
-**Primary question:** How did Akwei obtain NSA technical knowledge in 1992?
-**Files:** 27 investigation files across 6 categories
+**Case:** Civil Action 92-0449-SS, U.S. District Court D.C.  
+**Investigation Period:** March–April 2026  
+**Primary question:** How did Akwei obtain NSA technical knowledge in 1992?  
+**Files:** 38 investigation files across 7 categories  
 
 ---
 
@@ -16,7 +16,7 @@
 04_NSA_Infrastructure/        -- Five Eyes, SIGINT, satellite networks, MRU
 05_Geographic_Analysis/       -- Property records, neighborhood mapping, careers
 06_Analysis_Patterns/         -- AI timeline, employment gaps, convergence points
-07_Next_Steps/                -- Verification roadmap, yearbook guide
+07_Next_Steps/                -- Verification roadmap, yearbook guide, FOIA strategy
 ```
 
 ---
@@ -25,16 +25,16 @@
 
 ### 24 - Primary Court Documents: Original Filing (92-0449) and HAARP Legislative Hearing
 [`01_Court_Documents/24_PRIMARY_COURT_DOCUMENTS_AND_HAARP_HEARING.md`](01_Court_Documents/24_PRIMARY_COURT_DOCUMENTS_AND_HAARP_HEARING.md)
-- THE ORIGINAL 7-PAGE COURT FILING -- scanned images from Case 1:92-cv-00449-SS, Document 1, Filed 02/20/92
-- CRITICAL CORRECTION: "TASO KARRAS" is TWO WORDS -- not "Tasokarras"; "Taso" is likely short for Anastasios (Greek)
-- Akwei's address: 819 Malta Lane (not 814; 814 is across the street -- those residents also named)
+- THE ORIGINAL 7-PAGE COURT FILING — scanned images from Case 1:92-cv-00449-SS, Document 1, Filed 02/20/92
+- CRITICAL CORRECTION: "TASO KARRAS" is TWO WORDS — not "Tasokarras"; "Taso" is likely short for Anastasios (Greek)
+- Akwei's address: 819 Malta Lane (not 814; 814 is across the street — those residents also named)
 - Northwood High School attendance confirmed: 1978 to 1981; ran cross-country and track
 - Defendant list divided into TWO categories: NSA employees (16 names) vs. non-NSA participants (16 names)
 - Forma pauperis application: $90/week commission sales, $4,000 total prior year income, no savings, no property
 - Dismissed in 14 DAYS by Judge Stanley Sporkin (former CIA General Counsel 1981-1986) as "frivolous"
 - Authorities contacted before filing: local police (3x), FBI (4x), DOJ, Sen. Mikulski, Select Committee on Intelligence, NSA IG
-- Akwei's 1996 Nexus Magazine dossier -- full technical claims, EMF frequency table, 30+ source bibliography
-- Alaska HAARP hearing transcript -- Dr. Patrick Flanagan testified; Pentagon recruited him at age 11
+- Akwei's 1996 Nexus Magazine dossier — full technical claims, EMF frequency table, 30+ source bibliography
+- Alaska HAARP hearing transcript — Dr. Patrick Flanagan testified; Pentagon recruited him at age 11
 
 ---
 
@@ -61,7 +61,7 @@
 - LinkedIn profile claiming NSA contractor status; names "Kinnecome Group" at 4211 Bryan Street, Dallas TX
 - 4211 Bryan Street CONFIRMED as NSA/AT&T surveillance facility (Snowden docs, The Intercept 2018)
 - Robin C Young (claimed mother) CONFIRMED in public records: Halethorpe, MD (15 mi from Ft. Meade)
-- Profile was MODIFIED AFTER DISCOVERY -- address and operational details removed
+- Profile was MODIFIED AFTER DISCOVERY — address and operational details removed
 - Second LinkedIn profile exists with headline "TS NSA Mind Control at National Security Agency"
 
 ### 18 - Greg Abate Resume Analysis: Three Profiles, One NSA Corridor
@@ -87,7 +87,7 @@
 
 ### 21 - Named Defendant Verification: Round Two
 [`02_Defendant_Verification/21_DEFENDANT_VERIFICATION_ROUND_TWO.md`](02_Defendant_Verification/21_DEFENDANT_VERIFICATION_ROUND_TWO.md)
-- Paul Stetter: STRONG LEAD -- Register of Wills, Montgomery County, MD; "lifelong resident"
+- Paul Stetter: STRONG LEAD — Register of Wills, Montgomery County, MD; "lifelong resident"
 - Corrections: Johnson pair is Paul Johnson and Steve Johnson (not Don/Linda)
 - Every distinctive/uncommon name has produced a match or lead in Montgomery County / DC corridor
 
@@ -100,9 +100,9 @@
 
 ### 23 - Named Defendant Verification: Round Three (Engels, Berman, Naimian)
 [`02_Defendant_Verification/23_DEFENDANT_VERIFICATION_ROUND_THREE.md`](02_Defendant_Verification/23_DEFENDANT_VERIFICATION_ROUND_THREE.md)
-- CRITICAL: Marty Engels VERIFIED as NSA employee -- National Cryptologic Foundation memorial; Chief, Strategic Engagement at NSA
-- Marc Berman: STRONG MATCH -- Silver Spring native, "tight-knit community where everyone knew each other"
-- Jeff Naimian: STRONG LEAD as Jeffrey P. Naimon -- father Alex Naimon of Silver Spring, MD
+- CRITICAL: Marty Engels VERIFIED as NSA employee — National Cryptologic Foundation memorial; Chief, Strategic Engagement at NSA
+- Marc Berman: STRONG MATCH — Silver Spring native, "tight-knit community where everyone knew each other"
+- Jeff Naimian: STRONG LEAD as Jeffrey P. Naimon — father Alex Naimon of Silver Spring, MD
 - Updated scorecard: 8 verified, 3 strong matches/leads, 9 unverified, 5 cannot research
 
 ### 26 - New Research: TASO KARRAS Identified, Sporkin Docket, Witness Verification
@@ -111,6 +111,40 @@
 - Age window: Born ~1955-1965 (right generation for Northwood High School 1978-1981)
 - Allan C. Kornblum VERIFIED: Real DOJ official, handled ALL FBI/NSA wiretap applications
 - Joan Russo office verified (Mikulski staff)
+
+### 29 - Deep Dig April 2026: Yearbook, Sporkin, Kinnecome Group LinkedIn
+[`02_Defendant_Verification/29_DEEP_DIG_APRIL_2026.md`](02_Defendant_Verification/29_DEEP_DIG_APRIL_2026.md)
+- Tasso Karras CONFIRMED: IDCrawl Northwood HS 1977–1981 + LinkedIn UMD 1981 + two Greek Orthodox obituaries
+- Akwei website confirms 1981 graduation, "Northwood High School in Wheaton, Maryland"
+- Phillip Young LinkedIn: "NSA Kinnecome Group located at Fort Worth, Dallas Texas" working at 4211 Bryan Street
+- Greg Abate Spokeo: CAD/CAM Engineer, Northrop Grumman, Clarksville/Silver Spring MD
+- Marc Berman: TS clearance confirmed (DOMA Vector); born Silver Spring ~1957
+- Sporkin oral history: stated philosophy of NOT summarily dismissing pro se litigants — contradiction with Akwei handling
+
+### 30 - Kinnecome Group NSA Unit: Three-Source Analysis
+[`02_Defendant_Verification/30_KINNECOME_GROUP_NSA_UNIT.md`](02_Defendant_Verification/30_KINNECOME_GROUP_NSA_UNIT.md)
+- Three independent appearances of "Kinnecome Group" across 30 years: 1992 complaint, 1996 Nexus dossier, ~2018–2019 LinkedIn
+- Robert "Pete" Kinnecome died Sep 12, 1994, Severna Park, Anne Arundel County, MD — 8 miles from NSA Fort Meade
+- Name absent from all Snowden materials — consistent with privatized cutout operating under EO 12333
+- Georgetown Law / NLRB career documented; NSA period undocumented (no employer stated in obituary)
+
+### 31 - Kinnecome Group & 4211 Bryan Street: Deep Excavation *(REVISED ASSESSMENT)*
+[`02_Defendant_Verification/31_KINNECOME_4211_BRYAN_STREET_DEEP_DIG.md`](02_Defendant_Verification/31_KINNECOME_4211_BRYAN_STREET_DEEP_DIG.md)
+- **CRITICAL REVISION**: Phillip Young LinkedIn profiles are TI-community harassment/doxxing, NOT independent corroboration
+- Profiles source all "Kinnecome Group" language from Akwei complaint — circular, not independent
+- 4211 Bryan Street independently confirmed as NSA/AT&T FAIRVIEW SAGUARO node (The Intercept, Snowden docs)
+- Kinnecome Group / 4211 Bryan Street link has ZERO primary-source corroboration beyond Akwei's own claim
+- Revised evidentiary architecture: two Kinnecome sources (1992 + 1996), both tracing to Akwei
+- Robert Kinnecome geographic proximity to Akwei (one block, Silver Spring MD) remains independently verified
+
+### 32 - AT&T Contractor Records at 4211 Bryan Street: Exhaustive Search
+[`02_Defendant_Verification/32_ATT_CONTRACTOR_RECORDS_4211_BRYAN.md`](02_Defendant_Verification/32_ATT_CONTRACTOR_RECORDS_4211_BRYAN.md)
+- FINDING: No named individuals exist in the public record for 4211 Bryan Street — structurally explained
+- Three factors: state secrets dismissals (Hepting/Jewel), "one cleared technician" OPSEC model, union-busting at SNRCs
+- STORMBREW precedent: NSA docs DO name AT&T contact persons; Intercept chose not to publish FAIRVIEW equivalents
+- PINECONE: downstream NSA processing facility receiving data from SNRCs — where NSA analysts actually work
+- AT&T confirmed only 25% of building human-staffed (Dallas Observer 2014)
+- Actionable: Snowden archive via Intercept contact; NSA FOIA SSO charts; 1985 AT&T/NSA contract FOIA
 
 ---
 
@@ -175,7 +209,7 @@
 
 ### 11 - Mankind Research Unlimited: The Silver Spring Intelligence Nexus
 [`04_NSA_Infrastructure/11_MRU_SILVER_SPRING_NEXUS.md`](04_NSA_Infrastructure/11_MRU_SILVER_SPRING_NEXUS.md)
-- MRU: government contractor (CAGE code 59737) at 1315 Apple Ave, Silver Spring -- ~3 miles from Akwei
+- MRU: government contractor (CAGE code 59737) at 1315 Apple Ave, Silver Spring — ~3 miles from Akwei
 - Founded by Carl Schleicher: Naval Academy, 10 yrs naval intelligence, worked for NSA through Navy
 - Research areas: mind control, synthetic telepathy, biocybernetics, EM effects on nervous system
 - All within 5 miles of Akwei: MRU, NSWC White Oak, Northwood HS, Kinnecome residence, Akwei residence
@@ -187,14 +221,14 @@
 ### 13 - Property Records: 814 and 819 Malta Lane
 [`05_Geographic_Analysis/13_PROPERTY_RECORDS_MALTA_LANE.md`](05_Geographic_Analysis/13_PROPERTY_RECORDS_MALTA_LANE.md)
 - 819 Malta Lane confirmed as Akwei family home; owned by Claire M. Akwei, sold 2007
-- 814 Malta Lane: 1,800 sq ft vs 819 at 1,140 sq ft -- 58% larger
+- 814 Malta Lane: 1,800 sq ft vs 819 at 1,140 sq ft — 58% larger
 - Both built 1959, same Kemp Mill subdivision, ~15-30m apart
 
 ### 14 - Career Reconstruction and MRU Personnel Deep Dive
 [`05_Geographic_Analysis/14_CAREER_RECONSTRUCTION_AND_MRU_DEEP_DIVE.md`](05_Geographic_Analysis/14_CAREER_RECONSTRUCTION_AND_MRU_DEEP_DIVE.md)
 - Complete Akwei career timeline: Northwood HS (1981) -> Capitol College (1986) -> 8-year blackout -> OfficeTeam (1994) -> ContextBase (2013)
 - 22 years from Capitol College graduation to first professional-track job
-- MRU personnel: CIA, NSC, NSA, NSWC, STARGATE -- all within 5 miles of Akwei
+- MRU personnel: CIA, NSC, NSA, NSWC, STARGATE — all within 5 miles of Akwei
 
 ---
 
@@ -210,7 +244,7 @@
 [`06_Analysis_Patterns/03_AKWEI_EMPLOYMENT_GAP.md`](06_Analysis_Patterns/03_AKWEI_EMPLOYMENT_GAP.md)
 - 8-year gap (1986-1994) covering the entire period of his claims
 - Capitol College is 6 miles from NSA; classmates went to NSA, Booz Allen, SAIC
-- Filed in forma pauperis (1992) -- impoverished at time of lawsuit
+- Filed in forma pauperis (1992) — impoverished at time of lawsuit
 
 ### 07 - Deep Dive Verification: Corroborating Evidence
 [`06_Analysis_Patterns/07_DEEP_DIVE_VERIFICATION.md`](06_Analysis_Patterns/07_DEEP_DIVE_VERIFICATION.md)
@@ -220,13 +254,13 @@
 
 ### 08 - The 1980 Convergence: Origin Point Analysis
 [`06_Analysis_Patterns/08_1980_CONVERGENCE_AND_ORIGIN.md`](06_Analysis_Patterns/08_1980_CONVERGENCE_AND_ORIGIN.md)
-- 1980: all threads converge -- social, technological, legal, institutional, personal
-- Byrd's EM weapons program at NSWC White Oak, Silver Spring -- 5 miles from Akwei
+- 1980: all threads converge — social, technological, legal, institutional, personal
+- Byrd's EM weapons program at NSWC White Oak, Silver Spring — 5 miles from Akwei
 - Akwei's 8-year employment gap ends within 30 days of Robert Kinnecome's death
 
 ### 12 - The 30-Day Correlation: Kinnecome Death and Employment Recovery
 [`06_Analysis_Patterns/12_KINNECOME_DEATH_EMPLOYMENT_CORRELATION.md`](06_Analysis_Patterns/12_KINNECOME_DEATH_EMPLOYMENT_CORRELATION.md)
-- Robert Kinnecome dies Sep 12, 1994; Akwei starts at OfficeTeam Oct 1994 -- first job in 8 years
+- Robert Kinnecome dies Sep 12, 1994; Akwei starts at OfficeTeam Oct 1994 — first job in 8 years
 - Rules out institutional blacklisting, delusion, and coincidence
 - Points to personal, active, local interference mechanism that ceased when operator died
 
@@ -247,6 +281,12 @@
 - Judge Sporkin docket: requires PACER access
 - Property records: partially available online
 
+### 28 - Yearbook Verification Research
+[`07_Next_Steps/28_YEARBOOK_VERIFICATION_RESEARCH.md`](07_Next_Steps/28_YEARBOOK_VERIFICATION_RESEARCH.md)
+- Ancestry database: all 8 target surnames confirmed in Northwood/Silver Spring database
+- "Tasso Karras" specifically hit; 1977 and 1985 yearbooks digitized but paywalled
+- Internet Archive has no freely accessible Northwood yearbooks 1977–1985
+
 ### Yearbook Verification Guide
 [`07_Next_Steps/IMMEDIATE_ACTIONS_YEARBOOK_GUIDE.md`](07_Next_Steps/IMMEDIATE_ACTIONS_YEARBOOK_GUIDE.md)
 - Step-by-step instructions for Classmates.com, Ancestry.com, Internet Archive yearbook access
@@ -256,7 +296,7 @@
 
 ## Key Finding
 
-The "physics barrier" framing is misleading. It applies only to PASSIVE detection of biological emissions (10^15 gap -- impossible). For ACTIVE RF sensing (transmit into head, analyze modulated return), the gap drops to 10^2-10^4 -- and AI processing gain of 40-60 dB bridges this entirely.
+The "physics barrier" framing is misleading. It applies only to PASSIVE detection of biological emissions (10^15 gap — impossible). For ACTIVE RF sensing (transmit into head, analyze modulated return), the gap drops to 10^2-10^4 — and AI processing gain of 40-60 dB bridges this entirely.
 
 The military had AI (1958), supercomputers (1950), billion-dollar AI programs (1983), and the Malech patent for active RF neural sensing (1974). The USAF described the complete read/write neural system as achievable in 1996. Akwei described it in 1992.
 
@@ -264,14 +304,30 @@ The question is not whether this is physically possible. It is. The question is 
 
 ---
 
-## Verification Scorecard (as of File 26)
+## Verification Scorecard (as of File 32 — April 2026)
 
 | Status | Count | Names |
 |--------|-------|-------|
-| Verified | 8 | 5 Kinnecomes, Greg Abate, Steve Abate (partial), Marty Engels (NSA) |
-| Strong Match/Lead | 4 | Marc Berman, Jeff Naimon, Paul Stetter, Tasso Karras |
+| Verified | 9 | 5 Kinnecomes, Greg Abate, Steve Abate (partial), Marty Engels (NSA), Tasso Karras |
+| Strong Match/Lead | 3 | Marc Berman, Jeff Naimon, Paul Stetter |
 | Unverified | 9 | Common names or no web presence |
 | Cannot Research | 5 | First-name-only or aliases |
+
+---
+
+## Active Investigation Threads (April 2026)
+
+### Closed: AT&T Personnel at 4211 Bryan Street
+No public names exist and the structural reason is fully documented (file 32). State secrets privilege, "one cleared technician" model, union-busting OPSEC. **This thread is exhausted for open-source research.**
+
+### Open: Snowden Archive — Named FAIRVIEW Contacts
+STORMBREW precedent confirms NSA docs name AT&T liaison persons. FAIRVIEW equivalents likely exist but unpublished. Best path: direct contact with The Intercept journalists (Ryan Gallagher, Henrik Moltke).
+
+### Open: NSA FOIA — SSO Organizational Records
+Request organizational chart for Special Source Operations, specifically Dallas FAIRVIEW/SAGUARO node. Expected Glomar denial, but denial is documentable and appealable.
+
+### Open: 1985 AT&T/NSA Contract — Acquisition Records
+AT&T's first post-Bell-breakup contract was "nearly $1 billion" to NSA (1985). Federal acquisition records may be FOIA-able. Contracting officers named in procurement records are public record.
 
 ---
 
