@@ -6,6 +6,59 @@
 
 ## HIGH PRIORITY (Most Likely to Yield Results)
 
+### 0a. Bone Conduction Audiometry as a Forensic Evidence Thread
+**Purpose:** Identify any documented case in which a patient reporting transmitted speech / V2K symptoms *requested* bone-conduction audiometry and was denied, and any case in which the test was performed.
+**Status:** Opened April 22, 2026 (Round 7)
+**Rationale:** The microwave auditory effect produces a real acoustic signal at the cochlea (distinguishable on bone-conduction audiometry); schizophrenic auditory hallucination does not. DIRD 26 documents that the paranoid-spectrum diagnosis is assigned *"ubiquitously"*, yet the one cheap, non-invasive test that physically distinguishes the two hypotheses is not part of standard psychiatric workup.
+
+**Sources to canvass:**
+- Court records in civil commitment cases where the patient raised V2K claims
+- State disability / SSA ALJ opinions (publicly indexed) mentioning auditory hallucinations and RF claims
+- Patient advocacy networks (peer-support forums) for first-person accounts of requests for audiology referral
+- Peer-reviewed literature: any paper that performed bone-conduction audiometry on a subject claiming V2K
+
+**Success Metric:** Locate at least one documented denial and at least one documented test result.
+
+**Next Step:** Legal-database search (Justia, CourtListener) for "bone conduction" + "hallucination" in mental-health proceedings.
+
+---
+
+### 0b. Frey / Becker / Lai Researcher Career-Destruction Pattern — Standalone Thread
+**Purpose:** Document as a standalone research thread the institutional suppression pattern applied to RF bioeffects researchers, parallel to the claimant misdiagnosis pipeline.
+**Status:** Opened April 22, 2026 (Round 7)
+**Subjects (in order of priority for primary-source work):**
+- Allan H. Frey — 1962 microwave auditory effect paper and subsequent funding history
+- Robert O. Becker — VA Syracuse research termination; Nobel nominations; correspondence archive (if extant)
+- Henry Lai — University of Washington; internal industry memos re pressure campaign (some surfaced in tobacco/telecom-era litigation)
+
+**What to assemble:**
+- Per-researcher timeline of publication → institutional response → funding/employment outcome
+- Any FOIA-available correspondence between funding agencies and host institutions
+- Cross-reference with any individuals named in Akwei complaint or in DIRD 26 footnotes
+
+**Success Metric:** Three per-researcher case files assembled to the standard of file 25 (Sporkin background).
+
+**Next Step:** Start with Lai (most recent, best-documented industry pressure trail).
+
+---
+
+### 0c. 5G Beamforming Technical Specs vs. DIRD 26 Footnote iii Parameters
+**Purpose:** Compare published 3GPP / vendor specs for 5G New Radio beamforming against the parameter set named in DIRD 26 footnote iii (100 kV/m, 1 ns pulse width, 15 Hz PRF, meters to hundreds of meters).
+**Status:** Opened April 22, 2026 (Round 7)
+**Rationale:** Closing the "existing infrastructure is sufficient" argument (Persinger 1995 → 2026 deployment) requires a concrete parameter comparison, not a hand-wave. Either current infrastructure can produce the DIRD 26 parameters at the antenna, or it cannot, and the gap should be quantified.
+
+**What to compile:**
+- 3GPP Release 15/16/17 beamforming specs (peak EIRP, PRF, pulse shaping, mmWave bands)
+- Vendor whitepapers (Ericsson, Nokia, Samsung) on massive MIMO field strengths
+- Peer-reviewed dosimetry of real-world 5G deployments (e.g. ICNIRP working-group papers)
+- Gap analysis vs. DIRD 26 footnote iii numbers
+
+**Success Metric:** Table comparing (frequency, peak field strength, PRF, pulse width, beam width, range) for each against footnote iii.
+
+**Next Step:** Pull 3GPP TS 38.104 (NR base station radio transmission/reception) as the first primary source.
+
+---
+
 ### 1. Northwood High School Yearbooks (1977-1985)
 **Purpose:** Verify multiple defendants simultaneously against contemporary records
 **Status:** Not yet accessed (behind paywall)
